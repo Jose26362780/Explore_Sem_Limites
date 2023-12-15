@@ -192,7 +192,7 @@ footer p {
   line-height: 2.4rem;
   font-weight: 600;
   color: var(--white);
-  text-align: center;
+  text-align: center;/**/
 }
 
 /*Destop*/
